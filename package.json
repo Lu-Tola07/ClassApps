@@ -1,0 +1,23 @@
+{
+  "name": "mongodb",
+  "version": "1.0.0",
+  "description": "Perform a CRUD on mongoDB datatbase",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js",
+    "class": "nodemon football.js",
+    "new": "nodemon movie.js",
+    "state": "nodemon states.js"
+  },
+  "keywords": [],
+  "author": "Tola",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "gitignore": "^0.7.0",
+    "mongoose": "^8.4.1",
+    "nodemon": "^3.1.3"
+  }
+}

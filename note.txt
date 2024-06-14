@@ -1,0 +1,4 @@
+Initialize node package.
+Install Express
+Install Nodemon
+Install MongoDB compass
